@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1642516706465" clover="3.2.0">
-  <project timestamp="1642516706465" name="All files">
-    <metrics statements="21" coveredstatements="21" conditionals="12" coveredconditionals="10" methods="7" coveredmethods="7" elements="40" coveredelements="38" complexity="0" loc="21" ncloc="21" packages="1" files="3" classes="3"/>
+<coverage generated="1642517507250" clover="3.2.0">
+  <project timestamp="1642517507251" name="All files">
+    <metrics statements="24" coveredstatements="24" conditionals="13" coveredconditionals="10" methods="8" coveredmethods="8" elements="45" coveredelements="42" complexity="0" loc="24" ncloc="24" packages="1" files="4" classes="4"/>
     <file name="task1.js" path="D:\projects\exercises\tests\task1.js">
       <metrics statements="4" coveredstatements="4" conditionals="5" coveredconditionals="4" methods="1" coveredmethods="1"/>
       <line num="1" count="1" type="cond" truecount="0" falsecount="1"/>
@@ -31,6 +31,12 @@
       <line num="21" count="3" type="stmt"/>
       <line num="22" count="2" type="cond" truecount="2" falsecount="0"/>
       <line num="23" count="1" type="stmt"/>
+    </file>
+    <file name="task4.js" path="D:\projects\exercises\tests\task4.js">
+      <metrics statements="3" coveredstatements="3" conditionals="1" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="cond" truecount="0" falsecount="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
