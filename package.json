@@ -9,6 +9,9 @@
   "author": "Matovu Farid Nkoba",
   "license": "ISC",
   "devDependencies": {
+    "@babel/core": "^7.16.7",
+    "@babel/node": "^7.16.8",
+    "@babel/preset-env": "^7.16.8",
     "jest": "^27.4.7"
   }
 }
