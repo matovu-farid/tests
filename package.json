@@ -1,0 +1,14 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "Test practice",
+  "main": "task1.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Matovu Farid Nkoba",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
